@@ -1,3 +1,8 @@
 # Simple-Calculator
 Simple calculator using Kotlin
-![Alt text](quytttb/Simple-Calculator/app/src/main/assets/Screenshot_20221027-110940_Simple_Calculator.png "Optional title")
+</br>
+<img
+  src="quytttb/Simple-Calculator/app/src/main/assets/Screenshot_20221027-110940_Simple_Calculator.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
